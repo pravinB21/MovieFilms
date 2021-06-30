@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e4a9ce36-b9b3-48a7-9b67-a9541c4166bc/resourceGroups/2021-march-mean/providers/Microsoft.Web/sites/notTodayPravin",
+    "appService.deploySubpath": "."
+}
